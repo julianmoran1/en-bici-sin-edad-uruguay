@@ -1,3 +1,20 @@
+/* carousel mobile */
+
+@media (max-width: 767px) {
+
+	#home-carousel .fill {
+		height: 250px;
+	}
+
+	#home h1 {
+		font-size: 26px;
+	}
+
+}
+
+/* fin carousel mobile */
+
+
 
 /*!
  * Bootstrap v4.5.0 (https://getbootstrap.com/)
